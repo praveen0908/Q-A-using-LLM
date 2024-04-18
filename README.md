@@ -2,10 +2,6 @@
 
 ![](screenshots/demo.gif)
 
-This app is available for demo at [LLM Question-Answering Application](https://jacobj215-llm-qna-chat-bot-app-yzhsmu.streamlit.app/)
-
-
-[GitHub](https://github.com/JacobJ215/LLM-QnA-CHAT-BOT)
 
 ## Overview
 
