@@ -20,7 +20,7 @@ Once the document is prepped, the embeddings are securely stored in a vector sto
 
 ## How to run the app
 
-1. Click [Streamit App](https://jacobj215-llm-qna-chat-bot-app-yzhsmu.streamlit.app/)
+1. Run in vscode
 
 2. Enter OpenAI API Key: Since our application uses Open AI's `gpt-3.5-turbo`, you will be required to enter in your api key
 
